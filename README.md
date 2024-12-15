@@ -6,8 +6,8 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone <URL вашего репозитория>
-   cd <имя папки>
+   git clone https://github.com/Arturrybkin/-.git
+   
 
 2. Установите зависимости:
     pip install -r requirements.txt
